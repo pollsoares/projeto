@@ -26,7 +26,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/pollsoares/projeto.git 
+    git clone https://github.com/pollsoares/projeto.git
 
 Switch to the repo folder
 
