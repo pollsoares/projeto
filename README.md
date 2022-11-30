@@ -26,7 +26,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://gitlab.unicamp.br/soares/projeto.git 
+    git clone https://github.com/pollsoares/projeto.git 
 
 Switch to the repo folder
 
@@ -34,11 +34,11 @@ Switch to the repo folder
 
 Install all the dependencies using composer
 
-    composer install
+    composer install --ignore-platform-reqs
     
 Install other dependencies using npm
 
-    npm install && npm run server
+    npm install && npm run dev
 
 Copy the example env file and make the required configuration changes in the .env file
 
